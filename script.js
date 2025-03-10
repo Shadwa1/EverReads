@@ -271,7 +271,7 @@ bookCards.forEach((card, index) => {
                                     <p>${book.author}</p>
                                     <div class="icons2">
                                         <img src="img/icon/fav icon.svg" alt="Favorite Icon">
-                                        <img src="img/icon/share icon.svg" alt="Share Icon">
+                                        <img src="img/icon/Share icon.svg" alt="Share Icon">
                                         <img src="img/icon/saveicon2.svg" alt="Save Icon">
                                     </div>
                                     <button class="read-now2">Read Now</button>
