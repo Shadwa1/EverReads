@@ -152,7 +152,7 @@ categoriesSection.innerHTML = `
                   <p>${book.author}</p>
                   <div class="icons">
                       <img src="img/icon/fav icon.svg" alt="Favorite Icon" />
-                      <img src="img/icon/share icon.svg" alt="Share Icon" />
+                      <img src="img/icon/Share icon.svg" alt="Share Icon" />
                       <img src="img/icon/saveicon2.svg" alt="Save Icon" data-pdf="${book.pdf}"/>
                   </div>
                   
